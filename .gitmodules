@@ -134,3 +134,6 @@
 	path = layers/sw/meta-ros
 	url = https://github.com/DRK-512/meta-ros.git
 	branch = kirkstone
+[submodule "layers/bsp/meta-variscite-bsp-common"]
+	path = layers/bsp/meta-variscite-bsp-common
+	url = https://github.com/varigit/meta-variscite-bsp-common.git
